@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Hogwarts';
+    src: url('/fonts/Hogwarts.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Calson Antique';
+    src: url('/fonts/CaslonAntique.ttf') format('truetype');
+}
